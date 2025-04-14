@@ -1,5 +1,0 @@
-name = Book Navigation Remover
-description = Prevents the default book navigation menu from being displayed.
-core = 7.x
-package = Content
-dependencies[] = book
